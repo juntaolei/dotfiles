@@ -4,3 +4,6 @@
   username = juntaolei
 [core]
   editor = vim
+[pull]
+  rebase = false
+  ff = only
